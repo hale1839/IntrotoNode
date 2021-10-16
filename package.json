@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "14.18.1",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hale1839/IntrotoNode.git"
+  },
+  "author": "Michael Hale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hale1839/IntrotoNode/issues"
+  },
+  "homepage": "https://github.com/hale1839/IntrotoNode#readme"
+}
